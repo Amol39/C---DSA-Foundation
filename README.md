@@ -14,24 +14,38 @@ The following data structures are implemented in this repository:
 ->Array
 
 ->Linked List
+
 ->Stack
+
 ->Queue
+
 ->Binary Tree
+
 ->Binary Search Tree
+
 ->Heap
+
 ->Graph
+
 ->Hash Table
+
 Each data structure is implemented with its associated operations and functionalities.
 
 **Problem Topics**
 The problems cover a wide range of DSA topics, including:
 
 ->Searching and Sorting Algorithms
+
 ->Recursion and Backtracking
+
 ->Dynamic Programming
+
 ->Graph Algorithms
+
 ->Tree and Binary Tree Problems
+
 ->Array and String Manipulation
+
 and more...
 
 **How to Use**
