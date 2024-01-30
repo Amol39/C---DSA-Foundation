@@ -12,6 +12,7 @@ This repository serves as a learning resource for mastering DSA concepts using C
 The following data structures are implemented in this repository:
 
 ->Array
+
 ->Linked List
 ->Stack
 ->Queue
