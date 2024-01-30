@@ -1,0 +1,39 @@
+
+/*                            Abstraction
+
+ enables us to display only essential details information while hiding implementation details
+ in simple word in abstraction implementation is hide from us 
+
+        
+                                 Inheritance 
+
+A class inherits properties from another class .
+
+                  A   parent clas 
+                  |
+                  |
+                  B   Child class 
+*/
+
+ inheritance is used for code reusibility 
+
+
+
+                   Access Specifiers & Modes of Inheritance
+
+public : data and fuctions of class can access anywhere in the code 
+
+protected :
+
+class ABC{
+    protected:
+
+    int x ;
+};
+
+-> accessible in own class , parent class and derived class 
+
+private ->  they are accessible only in own class .
+
+
+

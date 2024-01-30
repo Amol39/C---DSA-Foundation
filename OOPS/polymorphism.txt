@@ -1,0 +1,15 @@
+// ability to objects / methods to take different forms .. 
+// poly means many forms .. example a man can be employee of someone , brother of someone , son of someone , husband of someone .. here a man can have different forms .
+
+/*
+                       Types of polymorphism 
+                       1. compile time polymorphism 
+                       a--> function overloading 
+                       b--> operator overloading
+
+                       2. Run time polymorphism
+                       a--> function overriding 
+                       A child class is define a function of parent class  
+
+
+*/
