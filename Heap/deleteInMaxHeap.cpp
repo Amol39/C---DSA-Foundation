@@ -22,7 +22,7 @@ void deletMaxHeap(int maxHeap[],int &size){
         swap(maxHeap[maxchild],maxHeap[curr]);
         curr = maxchild;
     }
-
+    
 }
 
 int main(){
