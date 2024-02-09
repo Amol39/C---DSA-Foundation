@@ -2,6 +2,9 @@
 Given a character array tasks, representing the tasks a CPU needs to do, where each letter represented a different task. Tasks could be done in any order. Each task is done in one unit of time. For each unit of time, the cpu could complete either one task or just idle.
    However, there is a non-negative integer n that represents the cooldown period between two same task(the same letter in the array), that is that there must be at least n units of time between any two same tasks.
 Return the least number of units of times that the CPU will take to finish all the given tasks.
+
+Input: tasks = ["A","A","A","B","B","B"] , n = 2;
+output : 8
 */
 
 
