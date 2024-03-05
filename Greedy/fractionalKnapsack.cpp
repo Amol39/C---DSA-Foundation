@@ -52,7 +52,6 @@ int main(){
         it.weight = w;
         items.push_back(it);
     }
-
     cout<<fractional(W, items)<<"\n";
     return 0;
 }
