@@ -5,7 +5,7 @@ using namespace std ;
 int findMinimumInSortedRotated(vector<int>input){
     if(input.size()==1) return input[0];
     int lo = 0 ; int hi = input.size()-1;
-    if(input[lo]<input[hi]){    // sorted array 
+    if(input[lo]<input[hi]){     
         return lo ;
     }
     while(lo<=hi){
