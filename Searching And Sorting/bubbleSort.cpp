@@ -7,10 +7,15 @@ using namespace std;
 void bubbleSort(vector<int>&input){
     int n = input.size();
     for(int i = 0 ; i<n-1;i++){
+         bool flg = false;
         for(int j =0 ; j<n-i-1;j++){
             if(input[j]>input[j+1]){ // for printing decresing order you should change here
-               swap(input[j],input[j+1]);                              //input[j]<input[j+1]            
+               swap(input[j],input[j+1]);                              //input[j]<input[j+1]  
+               flg = true;          
             }     
+        }
+        if(!flg){
+            break;
         }
     }
 }
